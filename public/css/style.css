@@ -1,0 +1,11 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px red;
+  }
+
+html {
+  border: 5px black;
+  background-color: red;
+}  
